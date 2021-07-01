@@ -1,0 +1,8 @@
+$ docker images
+REPOSITORY                  TAG                 IMAGE ID            CREATED              SIZE
+165610039-muhammadk-image   latest              c9928b1ddf88        About a minute ago   54.3MB
+redis                       latest              4760dc956b2d        3 years ago          107MB
+ubuntu                      latest              f975c5035748        3 years ago          112MB
+alpine                      latest              3fd9065eaf02        3 years ago          4.14MB
+nginx                       1.11-alpine         bedece1f06cc        4 years ago          54.3MB
+$ ^C
